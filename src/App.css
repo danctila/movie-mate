@@ -1,0 +1,173 @@
+.Container {
+  flex: 1;
+  background-color: #f5f5f5;
+  height: 100%;
+  width: 100%;
+}
+
+.Header {
+  padding: 30px;
+  align-items: center;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.Title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #1a1a1a;
+  margin-bottom: 20px;
+}
+
+.FilterButton {
+  background-color: #e5e7eb;
+  padding: 8px 16px;
+  border-radius: 8px;
+  margin-right: 8px;
+}
+
+.FilterButton text {
+  color: #1a1a1a;
+  font-size: 14px;
+}
+
+.FilterButtonActive {
+  background-color: #2563eb;
+  padding: 8px 16px;
+  border-radius: 8px;
+  margin-right: 8px;
+}
+
+.FilterButtonActive text {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.RecommendButton {
+  background-color: #2563eb;
+  padding: 16px 32px;
+  border-radius: 12px;
+  margin-top: 15px;
+}
+
+.ButtonText {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.MovieContainer {
+  padding: 20px;
+  gap: 20px;
+}
+
+.MovieCard {
+  background-color: #ffffff;
+  border-radius: 16px;
+  width: 100%;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.PosterContainer {
+  width: 100%;
+  align-items: center;
+  padding: 20px;
+}
+
+.MoviePoster {
+  width: 200px;
+  height: 300px;
+}
+
+.MovieInfo {
+  padding: 20px;
+}
+
+.MovieTitle {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.MovieRating {
+  color: #2563eb;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.MovieOverview {
+  color: #4a4a4a;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.EmptyState {
+  padding: 40px 20px;
+  align-items: center;
+}
+
+.EmptyText {
+  color: #666666;
+  font-size: 16px;
+  text-align: center;
+}
+
+/* New styles for layout */
+.AppContainer {
+  width: 100%;
+  height: 100%;
+}
+
+.MainContent {
+  width: 100%;
+  display: linear;
+  padding: 20px 0;
+}
+
+.FilterSection {
+  margin-bottom: 10px;
+}
+
+.FilterLabel {
+  margin-bottom: 5px;
+}
+
+.FilterOptions {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5px;
+}
+
+.MovieList {
+  width: 100%;
+  padding: 0 10px;
+}
+
+.MovieDate {
+  color: #666;
+  margin-top: 10px;
+}
+
+.MovieGenres {
+  color: #666;
+}
+
+/* Debug section - commented out but available */
+.DebugSection {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+}
+
+.DebugTitle {
+  font-weight: bold;
+}
+
+.DebugApiUrl {
+  font-size: 10px;
+  margin-top: 5px;
+}
