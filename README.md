@@ -31,9 +31,9 @@ MovieMate is a **simple, lightweight movie finder** that lets users discover fil
 ---
 
 ## In Use
-<img src="https://github.com/user-attachments/assets/5886e593-f12f-4486-bc42-cf36d6f7dda5" alt="Simulator Screenshot 1" width="300"/>
-<img src="https://github.com/user-attachments/assets/adc1487f-c785-4470-ba7e-383984db3e82" alt="Simulator Screenshot 2" width="300"/>
-<img src="https://github.com/user-attachments/assets/72dbc5d5-8491-4130-96cb-fb142424882c" alt="Simulator Screenshot 3" width="300"/>
+<img src="https://github.com/user-attachments/assets/5886e593-f12f-4486-bc42-cf36d6f7dda5" alt="Simulator Screenshot 1" width="200"/>
+<img src="https://github.com/user-attachments/assets/adc1487f-c785-4470-ba7e-383984db3e82" alt="Simulator Screenshot 2" width="200"/>
+<img src="https://github.com/user-attachments/assets/72dbc5d5-8491-4130-96cb-fb142424882c" alt="Simulator Screenshot 3" width="200"/>
 
 ---
 
